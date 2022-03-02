@@ -48,7 +48,7 @@
     "redux-thunk": "^2.2.0",
     "sendbird": "3.0.36",
     "socket.io-client": "^2.0.3",
-    "url-parse": "^1.1.9"
+    "url-parse": "^1.5.9"
   },
   "devDependencies": {
     "babel-jest": "18.0.0",
